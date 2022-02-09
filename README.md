@@ -1,2 +1,5 @@
 # Svelte-Kit, An exciting javascript framework
 I have been foloowing svelte for a while now and svelte-kit, an opinionated framework, is a feature rich javascript framework with focus on everything serverless. I is interesting that use can use serverless plugins like Netlify functions, clouldflare workers and switch between at the time of deployment as the actual source code is decoupled with the deployment platform. If you have used React or any of its flavor like Next.js, then you will find that this framework is a dream to work with as a developer. Give this demo a try presented in this [article](https://blog.logrocket.com/exploring-sveltekit-the-newest-svelte-based-framework/) and experience it yourself.
+
+### comment by brad feng
+I thought this frameword was interesting due to its differences from exisitng ones like React. I wonder if it has any downsides thats preventing teams from picking it up.
